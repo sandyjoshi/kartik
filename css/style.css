@@ -350,8 +350,7 @@ a:focus {
 }
 
 .slider_section .img-box img {
-  min-width: 100%;
-  min-height: 100%;
+  width: 100%;
 }
 
 .slider_section .img-box::before {
