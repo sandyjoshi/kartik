@@ -259,10 +259,11 @@ a:focus {
 }
 
 .navbar-brand span {
-  font-size: 24px;
-  font-weight: 700;
-  color: #ffffff;
-  text-transform: uppercase;
+  font-size: 36px;
+  font-family: "Dancing Script", cursive;
+  font-weight: 900;
+  color: #9f484f;
+  text-transform: capitalize;
 }
 
 /*end header section*/
@@ -974,4 +975,10 @@ a:focus {
 .footer_section p a {
   color: inherit;
 }
+
+#map {
+            height: 200px; /* Full height */
+            width: 300px;  /* Full width */
+            border: 0;    /* Remove border */
+        }
 /*# sourceMappingURL=style.css.map */
