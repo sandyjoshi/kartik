@@ -442,7 +442,7 @@ a:focus {
 
 .gallery_section .img-box img {
   min-width: 100%;
-  min-height: 100%;
+  height: 500px;
 }
 
 .gallery_section .img-box a {
