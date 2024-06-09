@@ -101,6 +101,7 @@ h2 {
   height: 50px;
 }
 
+/*
 .custom_menu-btn::before {
   content: "";
   position: absolute;
@@ -116,6 +117,7 @@ h2 {
   -webkit-transition: all .3s;
   transition: all .3s;
 }
+*/
 
 .custom_menu-btn.menu_btn-style::before {
   width: 100vh;
